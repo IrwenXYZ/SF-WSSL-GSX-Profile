@@ -31,7 +31,7 @@ NOTE: For Embraer aircrafts to work, the aircraft GSX profile MUST be populated 
 
 ## IMPORTANT NOTES
 2. Please enable "Automated reposition" in GSX settings.
-3. Not all pushback procedures might be true to life. If you have any reference for procedures that can be improved to be more real to life, please open an issue on Github ().
+3. Not all pushback procedures might be true to life. If you have any reference for procedures that can be improved to be more real to life, please open an issue on Github (https://github.com/IrwenXYZ/SF-WSSL-GSX-Profile).
 
 ## Flying in or out of WSSL? Take note of the following!
 Singapore Aerodrome Resources (https://linktr.ee/sinvacc)
