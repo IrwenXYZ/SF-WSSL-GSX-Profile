@@ -39,5 +39,4 @@ Singapore Aerodrome Resources (https://linktr.ee/sinvacc)
 Please note that there has been major airspace and procedure changes as of AIRAC 2403. If you do not have AIRAC 2403 or after, please inform the controller.
 
 ## References
-VDGS - WSSS AIP
-Pushback Procedures - https://pushback.sinvacc.org
+Pushback Procedures - https://www.seletarairport.com/resources.html
